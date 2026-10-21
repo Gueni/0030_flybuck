@@ -1,0 +1,15 @@
+# LTspice simulation outputs
+*.raw
+*.op.raw
+*.log
+*.net
+*.fft
+*.tmp
+*.bak
+*.asc.bak
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
